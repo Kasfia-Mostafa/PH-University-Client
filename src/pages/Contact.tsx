@@ -1,9 +1,8 @@
+
 const Contact = () => {
   return (
-    <div>
-      <h1> This is Contact component </h1>
-    </div>
-  );
-};
+    <h1>Contact</h1>
+  )
+}
 
-export default Contact;
+export default Contact
