@@ -15,27 +15,27 @@ export const adminPaths = [
       {
         name: 'Create A. Semester',
         path: 'create-academic-semester',
-        element: <CreateAcademicSemester />,
+        // element: <CreateAcademicSemester />,
       },
       {
         name: 'Academic Semester',
         path: 'academic-semester',
-        element: <AcademicSemester />,
+        // element: <AcademicSemester />,
       },
       {
         name: 'Create A. Faculty',
         path: 'create-academic-faculty',
-        element: <CreateAcademicFaculty />,
+        // element: <CreateAcademicFaculty />,
       },
       {
         name: 'Academic Faculty',
         path: 'academic-faculty',
-        element: <AcademicFaculty />,
+        // element: <AcademicFaculty />,
       },
       {
         name: 'Create A. Department',
         path: 'create-academic-department',
-        element: <CreateAcademicDepartment />,
+        // element: <CreateAcademicDepartment />,
       },
       {
         name: 'Academic Department',
